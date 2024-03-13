@@ -17,6 +17,8 @@ El proyecto tiene como objetivo explorar y aplicar métodos heurísticos para la
 
 No se requiere ninguna instalación especial para visualizar el contenido del proyecto. Simplemente sigue los enlaces proporcionados en la sección de Contenido para acceder a las diferentes partes del proyecto.
 
+Para visualizar la page del trabajo se puede dirigir al siguiente site: https://santiagomaya10.github.io/githubpagesdemo/index.html
+
 ## Contribución
 
 Si deseas contribuir a este proyecto, puedes enviar sugerencias, correcciones o mejoras mediante pull requests.
